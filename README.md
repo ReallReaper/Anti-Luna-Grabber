@@ -3,6 +3,9 @@ Here you can find 3 totally useful tools created by me to be able to reverse any
 
 # UPDATE: 05/08/2023
 The last update so far is to block any grabber, therefore this anti luna grabber becomes an anti grabber because any automated message that is sent as a grabber is simply canceled and cannot be sent
+
+# UPDATE: 05/08/2023 (the last of the day)
+***「✔」Luna Grabber Remover added ***
 https://discord.gg/ASbPTnkJrm
 
 ![Yuki Nanami](https://github.com/ReallReaper/Anti-Luna-Grabber/assets/95001569/4e96f99c-d26a-4a41-8ca3-f7e0750295e2)
