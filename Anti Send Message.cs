@@ -1,5 +1,5 @@
 //Anti luna send message and more
-/*using System;
+using System;
 using System.IO;
 using System.Linq;
 
@@ -29,7 +29,7 @@ class Program
             "ipgeolocation.com", "ipgeolocationapi.com", "ipgeolocation.xyz", "ipregistry.co", "ip2whois.com",
             "ipapi.net", "www.iplocation.info", "www.ip-tracker.com", "www.ip-lookup.org", "www.whois.net",
             "www.maxmind.com", "www.infosniper.net", "www.geobytes.com", "www.ip2country.net", "www.ipaddressguide.org",
-            "www.iplocationlookup.com", "api.seeip.org","
+            "www.iplocationlookup.com", "api.seeip.org", "api64.ipify.org","discord.com"
         };
 
         // Ruta del archivo hosts
