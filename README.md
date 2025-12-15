@@ -7,13 +7,6 @@
 # UPDATE: 05/08/2023 (the last of the day)
 ***「✔」Luna Grabber Remover added***
 
-# Donations: 
-**Monero: 46GrTbi2tQb5g3X6vuzNxqASNDDR7x72V1VsVRcXqAYuL3VUYrm7q1ua33fS6eaZceY6qiSCpF45DPShVpdRXjPyQXmGPXE**
-
-**Bitcoin: bc1qwn790a30545ucmlwhp3t040e48wl5pnsdwzupe**
-
-**Ethereum: 0xd041b6C1B422C2b349d97D2b6d1531Dc21339Fe4**
-
 https://discord.gg/ASbPTnkJrm
 
 ![Yuki Nanami](https://github.com/ReallReaper/Anti-Luna-Grabber/assets/95001569/4e96f99c-d26a-4a41-8ca3-f7e0750295e2)
